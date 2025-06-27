@@ -1,1 +1,1 @@
-# TASK-3
+So i firstly downloaded openvas from the official source and ran a immediate IP scan and checked the result i got a lot of Vulnerability in result , the most critical  Vulnerability i got is rexec Passwordless / Unencrypted Cleartext, and i  have to solve it because it allows remote login without password . so i researched on the net and found i have to disable rexec and replace it to a secure alternative . 
